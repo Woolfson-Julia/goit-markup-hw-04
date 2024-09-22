@@ -161,6 +161,7 @@ body {
     ),
     url('../images/hero/background-hero.jpg');
   background-repeat: no-repeat;
+  background-size: cover;
   max-width: 1440px;
   margin-left: auto;
   margin-right: auto;
